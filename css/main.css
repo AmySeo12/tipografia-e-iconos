@@ -26,8 +26,7 @@ i {
 .tamaño:hover {
 	background-color: white;
 	color: #A6B8DA;
-	border-right: 1px solid #ECECEC;
-	border-bottom: 1px solid #ECECEC;
+	box-shadow: 1px 1px 0px 0px rgba(194,192,192,1);
 	height: 340px;
 	width: 20%;
 }
